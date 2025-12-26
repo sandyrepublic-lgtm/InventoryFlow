@@ -1,0 +1,5 @@
+{
+  "name": "InventoryFlow",
+  "description": "A visual inventory tracking system allowing users to manage products, color variants, and purchase status (Empty/Stocked/Sold) with a clean, responsive interface. Includes AI-powered inventory insights.",
+  "requestFramePermissions": []
+}
